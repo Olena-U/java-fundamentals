@@ -1,8 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Java Fundamentals
+## Java Fundamentals Structure
 
-Default Structure for A Basic Project
-
+Default Structure for A Java Fundamentals
 Java 7
 
 * Maven
